@@ -11,7 +11,7 @@ The project goal for the class was to utilize data mining techniques on machine 
 
 ### Datasets
 ##### Tesla Stock Data from Yahoo Finance
-https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch
+https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch </br>
 The dataset being trained on is the TSLA stock prices from 6/29/10 to 11/19/21. The dataset was manually downloaded from Yahoo and contains a selection of information including open, high, low, close prices, as well as adjusted close price and trade volume.
 
 ### Files in Repository
